@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-07-29T13:13:08",
+    "n_rows": 100000,
+    "n_features": 38,
+    "repeats": 5,
+    "n_estimators": 40,
+    "max_depth": 14,
+    "sklearn_best_seconds": 0.1768,
+    "sklearn_rows_per_sec": 565477.5,
+    "sklearn_all_seconds": [
+      0.177,
+      0.1768,
+      0.1808,
+      0.1872,
+      0.191
+    ],
+    "backends": {
+      "onnxruntime": {
+        "status": "ok",
+        "version": "1.24.4",
+        "best_seconds": 0.1474,
+        "rows_per_sec": 678510.2,
+        "all_seconds": [
+          0.1487,
+          0.1475,
+          0.1474,
+          0.1515,
+          0.1541
+        ],
+        "speedup": 1.2,
+        "agreement_mae": 0.0304
+      },
+      "openvino": {
+        "status": "unsupported_op",
+        "detail": "-- No conversion rule found for operations: ai.onnx.ml.TreeEnsembleRegressor",
+        "reason": "OpenVINO's ONNX frontend has no conversion rule for ai.onnx.ml.TreeEnsembleRegressor. Tree ensembles are outside its supported operator set; this is not fixable by opset or precision settings.",
+        "best_seconds": null,
+        "rows_per_sec": null,
+        "speedup": null,
+        "agreement_mae": null
+      }
+    },
+    "cpu_count": 1,
+    "platform": "x86_64",
+    "processor": "x86_64",
+    "openvino_best_seconds": null,
+    "openvino_rows_per_sec": null,
+    "openvino_status": "unsupported_op",
+    "speedup": null
+  }
+]

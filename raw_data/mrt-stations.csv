@@ -1,0 +1,117 @@
+station_name,code,line,status
+Admiralty,NS10,North-South Line,operational
+Aljunied,EW9,East-West Line,operational
+Ang Mo Kio,NS16,North-South Line,operational
+Bartley,CC12,Circle Line,operational
+Bayfront,"CC34, DT16",Circle Line; Downtown Line,operational
+Bayshore,TE29,Thomson-East Coast Line,operational
+Beauty World,DT5,Downtown Line,operational
+Bedok,EW5,East-West Line,operational
+Bedok North,DT29,Downtown Line,operational
+Bedok Reservoir,DT30,Downtown Line,operational
+Bencoolen,DT21,Downtown Line,operational
+Bendemeer,DT23,Downtown Line,operational
+Bishan,"NS17, CC15",North-South Line; Circle Line,operational
+Boon Keng,NE9,North East Line,operational
+Boon Lay,EW27,East-West Line,operational
+Botanic Gardens,"CC19, DT9",Circle Line; Downtown Line,operational
+Braddell,NS18,North-South Line,operational
+Bras Basah,CC2,Circle Line,operational
+Bright Hill,TE7,Thomson-East Coast Line,operational
+Buangkok,NE15,North East Line,operational
+Bugis,"EW12, DT14",East-West Line; Downtown Line,operational
+Bukit Batok,NS2,North-South Line,operational
+Bukit Gombak,NS3,North-South Line,operational
+Bukit Panjang,"BP6, DT1",Downtown Line,operational
+Buona Vista,"EW21, CC22",East-West Line; Circle Line,operational
+Caldecott,"CC17, TE9",Circle Line; Thomson-East Coast Line,operational
+Canberra,NS12,North-South Line,operational
+Cantonment,CC31,Circle Line,operational
+Cashew,DT2,Downtown Line,operational
+Changi Airport,CG2,East-West Line Changi Airport Extension,operational
+Chinatown,"NE4, DT19",North East Line; Downtown Line,operational
+Chinese Garden,EW25,East-West Line,operational
+Choa Chu Kang,"NS4, BP1",North-South Line,operational
+City Hall,"NS25, EW13",North-South Line; East-West Line,operational
+Clarke Quay,NE5,North East Line,operational
+Clementi,EW23,East-West Line,operational
+Commonwealth,EW20,East-West Line,operational
+Dakota,CC8,Circle Line,operational
+Dhoby Ghaut,"NS24, NE6, CC1",North-South Line; North East Line; Circle Line,operational
+Dover,EW22,East-West Line,operational
+Downtown,DT17,Downtown Line,operational
+Esplanade,CC3,Circle Line,operational
+Eunos,EW7,East-West Line,operational
+Expo,"CG1, DT35",East-West Line Changi Airport Extension; Downtown Line,operational
+Farrer Park,NE8,North East Line,operational
+Farrer Road,CC20,Circle Line,operational
+Fort Canning,DT20,Downtown Line,operational
+Gardens by the Bay,TE22,Thomson-East Coast Line,operational
+Geylang Bahru,DT24,Downtown Line,operational
+Great World,TE15,Thomson-East Coast Line,operational
+Gul Circle,EW30,East-West Line,operational
+HarbourFront,"NE1, CC29",North East Line; Circle Line,operational
+Havelock,TE16,Thomson-East Coast Line,operational
+Haw Par Villa,CC25,Circle Line,operational
+Hillview,DT3,Downtown Line,operational
+Holland Village,CC21,Circle Line,operational
+Hougang,NE14,North East Line,operational
+Hume,DT4,Downtown Line,operational
+Jalan Besar,DT22,Downtown Line,operational
+Joo Koon,EW29,East-West Line,operational
+Jurong East,"NS1, EW24",North-South Line; East-West Line,operational
+Kaki Bukit,DT28,Downtown Line,operational
+Kallang,EW10,East-West Line,operational
+Katong Park,TE24,Thomson-East Coast Line,operational
+Kembangan,EW6,East-West Line,operational
+Kent Ridge,CC24,Circle Line,operational
+Keppel,CC30,Circle Line,operational
+Khatib,NS14,North-South Line,operational
+King Albert Park,DT6,Downtown Line,operational
+Kovan,NE13,North East Line,operational
+Kranji,NS7,North-South Line,operational
+Labrador Park,CC27,Circle Line,operational
+Lakeside,EW26,East-West Line,operational
+Lavender,EW11,East-West Line,operational
+Lentor,TE5,Thomson-East Coast Line,operational
+Little India,"NE7, DT12",North East Line; Downtown Line,operational
+Lorong Chuan,CC14,Circle Line,operational
+MacPherson,"CC10, DT26",Circle Line; Downtown Line,operational
+Marina Bay,"NS27, CC33, TE20",North-South Line; Circle Line; Thomson-East Coast Line,operational
+Marina South Pier,NS28,North-South Line,operational
+Marine Parade,TE26,Thomson-East Coast Line,operational
+Marine Terrace,TE27,Thomson-East Coast Line,operational
+Marsiling,NS8,North-South Line,operational
+Marymount,CC16,Circle Line,operational
+Mattar,DT25,Downtown Line,operational
+Maxwell,TE18,Thomson-East Coast Line,operational
+Mayflower,TE6,Thomson-East Coast Line,operational
+Mountbatten,CC7,Circle Line,operational
+Napier,TE12,Thomson-East Coast Line,operational
+Newton,"NS21, DT11",North-South Line; Downtown Line,operational
+Nicoll Highway,CC5,Circle Line,operational
+Novena,NS20,North-South Line,operational
+one-north,CC23,Circle Line,operational
+Orchard,"NS22, TE14",North-South Line; Thomson-East Coast Line,operational
+Orchard Boulevard,TE13,Thomson-East Coast Line,operational
+Outram Park,"EW16, NE3, TE17",East-West Line; North East Line; Thomson-East Coast Line,operational
+Pasir Panjang,CC26,Circle Line,operational
+Pasir Ris,EW1,East-West Line,operational
+Paya Lebar,"EW8, CC9",East-West Line; Circle Line,operational
+Pioneer,EW28,East-West Line,operational
+Potong Pasir,NE10,North East Line,operational
+Prince Edward Road,CC32,Circle Line,operational
+Promenade,"CC4, DT15",Circle Line; Downtown Line,operational
+Punggol,"NE17, PTC",North East Line,operational
+Punggol Coast,NE18,North East Line,operational
+Queenstown,EW19,East-West Line,operational
+Raffles Place,"EW14, NS26",East-West Line; North-South Line,operational
+Redhill,EW18,East-West Line,operational
+Rochor,DT13,Downtown Line,operational
+Sembawang,NS11,North-South Line,operational
+Sengkang,"NE16, STC",North East Line,operational
+Serangoon,"NE12, CC13",North East Line; Circle Line,operational
+Shenton Way,TE19,Thomson-East Coast Line,operational
+Siglap,TE28,Thomson-East Coast Line,operational
+Simei,EW3,East-West Line,operational
+Sixth Avenue,DT7,Downtown Line,operational

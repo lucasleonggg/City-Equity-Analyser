@@ -1,0 +1,27 @@
+{
+  "cv_5fold_subsample": {
+    "n_subsample": 80000,
+    "mean_r2": 0.9387,
+    "std_r2": 0.0012
+  },
+  "chronological_split": {
+    "split": "train<=2018 / test>2018",
+    "test_r2": 0.3339,
+    "test_mae": 120331,
+    "test_rmse": 157240,
+    "in_sample_r2": 0.9374,
+    "n_train": 788273,
+    "n_test": 193738,
+    "n_estimators": 100,
+    "max_depth": 14
+  },
+  "random_split": {
+    "split": "random_80_20",
+    "test_r2": 0.9393,
+    "test_mae": 30509,
+    "test_rmse": 46314,
+    "in_sample_r2": 0.9424,
+    "n_train": 785608,
+    "n_test": 196403
+  }
+}

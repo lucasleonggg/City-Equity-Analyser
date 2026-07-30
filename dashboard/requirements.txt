@@ -1,0 +1,19 @@
+# Runtime dependencies for the deployed Streamlit dashboard.
+# Keep this file MINIMAL -- Streamlit Community Cloud installs everything here
+# on every build, and the benchmark tooling (intelex/onnx/openvino) is several
+# hundred MB that the dashboard never imports at runtime. Those live in
+# requirements-dev.txt instead.
+streamlit>=1.28
+pandas>=2.0
+plotly>=5.18
+pydeck>=0.8
+numpy>=1.24
+joblib>=1.3
+
+# PINNED, not >=. transaction_price_model.joblib was pickled by scikit-learn
+# 1.8.0. Unpickling an estimator under a different minor version raises
+# InconsistentVersionWarning and is not guaranteed to reconstruct correctly, so
+# the deployed version must match the version that trained it. If you retrain,
+# update this pin to whatever `python -c "import sklearn; print(sklearn.__version__)"`
+# reports in the training environment.
+scikit-learn==1.8.0

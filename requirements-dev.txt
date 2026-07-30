@@ -1,0 +1,19 @@
+# Benchmark + test tooling. NOT needed to run the dashboard -- do not add these
+# to dashboard/requirements.txt or every Streamlit Cloud build pays for them.
+-r dashboard/requirements.txt
+
+# Intel oneDAL backend. Measured: 1.56x faster on KMeans (250k-row random
+# sample), 1.09x SLOWER on RandomForest fit, both on 1 vCPU. See README.md.
+scikit-learn-intelex>=2024.0
+
+# ONNX export + the one runtime that executes ai.onnx.ml tree operators.
+onnxruntime>=1.17
+skl2onnx>=1.16
+onnx>=1.15
+
+# Listed only so the benchmark can record its failure: OpenVINO's ONNX frontend
+# has no conversion rule for ai.onnx.ml.TreeEnsembleRegressor and cannot load
+# this model at all. Wrong runtime for tree ensembles, not a bug.
+openvino>=2024.0
+
+pytest>=7.0

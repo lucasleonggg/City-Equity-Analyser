@@ -1,0 +1,30 @@
+town,planning_area,earliest_development_era,typical_lease_commencement_range,estimated_avg_estate_age_years_as_of_2026,maturity_category,number_of_blocks_approx,total_units_approx,key_development_period,notes
+Queenstown,Queenstown,1960s,1963-1975,60,Mature,350,45000,"1960s (first satellite town), 1970s infill",Oldest HDB town; some blocks from 1963-64; major SERS activity
+Toa Payoh,Toa Payoh,1960s,1965-1980,58,Mature,400,55000,"1960s-1970s core, 1980s infill",Second satellite town; well-established central location
+Ang Mo Kio,Ang Mo Kio,1970s,1973-1990,50,Mature,500,70000,"1970s core, 1980s-1990s infill",Large estate with multiple precincts
+Bedok,Bedok,1970s,1975-1990,48,Mature,450,65000,"1970s-1980s",Largest HDB town by population in early years
+Clementi,Clementi,1970s,1975-1988,48,Mature,250,35000,"1970s-1980s",Mixed with private housing
+Bukit Merah,Bukit Merah,1970s,1970-1985,52,Mature,350,50000,"1970s core","Central location; many older blocks near city; Telok Blangah, Henderson areas"
+Geylang,Geylang,1970s,1972-1985,50,Mature,200,30000,"1970s-1980s",Fringe area near city center
+Marine Parade,Marine Parade,1970s,1974-1985,49,Mature,150,20000,"1970s-1980s",Coastal estate; smaller HDB town
+Kallang,Whampoa,1960s,1965-1980,57,Mature,300,40000,"1960s-1970s core, 1980s infill","Includes Whampoa, Bendemeer, McNair areas"
+Bishan,Bishan,1980s,1985-1995,37,Mature,150,22000,"1980s-1990s",Former cemetery redevelopment
+Bukit Batok,Bukit Batok,1980s,1983-1995,40,Mature,300,45000,"1980s-1990s",Hilly terrain; nature park nearby
+Bukit Panjang,Bukit Panjang,1980s,1984-1995,39,Mature,250,35000,"1980s-1990s","Includes Bukit Panjang, Senja, Bangkit"
+Hougang,Hougang,1980s,1982-1995,41,Mature,400,60000,"1980s-1990s",Large estate in northeast
+Jurong East,Jurong East,1980s,1980-1995,42,Mature,250,40000,"1980s-1990s",Regional centre development
+Jurong West,Jurong West,1980s,1983-2000,40,Mature,550,85000,"1980s-1990s, 2000s infill",Largest HDB town by population
+Pasir Ris,Pasir Ris,1980s,1987-2000,36,Mature,200,30000,"1980s-1990s",Coastal estate in east
+Serangoon,Serangoon,1980s,1982-1995,41,Mature,150,22000,"1980s-1990s","Includes Serangoon Central, Lorong Chuan"
+Tampines,Tampines,1980s,1985-2000,38,Mature,450,65000,"1980s core, 1990s-2000s expansion",Regional centre; model HDB town
+Woodlands,Woodlands,1980s,1984-2000,39,Mature,500,75000,"1980s-1990s, 2000s infill",Northern regional centre
+Yishun,Yishun,1980s,1985-2000,38,Mature,450,65000,"1980s-1990s, 2000s infill","North area; includes Chong Pang, Khatib"
+Choa Chu Kang,Choa Chu Kang,1990s,1992-2005,30,Mature,300,45000,"1990s-2000s",Western estate with nature parks
+Sembawang,Sembawang,1990s,1995-2010,28,Mature,200,30000,"1990s-2000s",Northern coastal estate
+Sengkang,Sengkang,1990s,1997-2010,25,Non-Mature,500,85000,"1997-2010 core, 2010s infill",Includes Compassvale, Rivervale, Anchorvale, Fernvale
+Punggol,Punggol,2000s,2002-2015,18,Non-Mature,400,70000,"2000s-2010s core, 2020s ongoing",Youngest HDB town; Punggol North/Matilda ongoing development
+Dawson (Queenstown),Queenstown,2010s,2014-2020,8,Mature,20,5000,"2010s (SERS redevelopment)",Redevelopment of old Queenstown blocks under SERS
+Tengah,Tengah,2020s,2024-2025,1,Non-Mature,10,2000,"2020s ongoing",First new HDB town in 20+ years; smart city features; under construction
+Bidadari,Toa Payoh,2010s,2017-2022,5,Mature,30,10000,"2010s-2020s",Former cemetery redevelopment; part of Toa Payoh
+Kallang Riverside,Kallang,2020s,2022-2025,2,Mature,5,2000,"2020s ongoing",Prime location redevelopment
+Pearl's Hill (Chinatown),Bukit Merah,2020s,2022-2025,2,Mature,3,1000,"2020s ongoing",Prime location; part of Bukit Merah planning area

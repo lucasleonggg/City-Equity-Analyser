@@ -1,0 +1,1 @@
+"""Equity analysis module for the Singapore HDB Access & Affordability Analyser."""

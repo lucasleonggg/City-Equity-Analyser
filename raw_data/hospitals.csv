@@ -1,0 +1,32 @@
+hospital_name,type,category,area,beds,established,status
+Changi General Hospital,Acute,Public,Simei,1043,1998,operational
+KK Women's and Children's Hospital,Acute,Public,Rochor,848,1858,operational
+Sengkang General Hospital,Acute,Public,Sengkang,799,2018,operational
+Singapore General Hospital,Acute,Public,Outram,1939,1821,operational
+Khoo Teck Puat Hospital,Acute,Public,Yishun,795,2010,operational
+Tan Tock Seng Hospital,Acute,Public,Novena,1700,1844,operational
+Woodlands Hospital,Acute,Public,Woodlands,1800,2023,operational
+Alexandra Hospital,Acute,Public,Queenstown,326,1938,operational
+National University Hospital,Acute,Public,Kent Ridge,1200,1985,operational
+Ng Teng Fong General Hospital,Acute,Public,Jurong East,700,2015,operational
+Mount Alvernia Hospital,Acute,Not-for-Profit,Marymount,319,1961,operational
+Crawfurd Hospital,Acute,Private,Bukit Timah,31,2012,operational
+Farrer Park Hospital,Acute,Private,Farrer Park,121,2016,operational
+Gleneagles Hospital,Acute,Private,Tanglin,257,1957,operational
+Mount Elizabeth Hospital,Acute,Private,Orchard,345,1979,operational
+Mount Elizabeth Novena Hospital,Acute,Private,Novena,333,2012,operational
+Parkway East Hospital,Acute,Private,Joo Chiat,143,1942,operational
+Raffles Hospital,Acute,Private,Bugis,380,2002,operational
+Thomson Medical Centre,Acute,Private,Thomson,187,1979,operational
+Outram Community Hospital,Community,Public,Bukit Merah,550,2019,operational
+Sengkang Community Hospital,Community,Public,Sengkang,400,2018,operational
+Yishun Community Hospital,Community,Public,Yishun,224,2015,operational
+Jurong Community Hospital,Community,Public,Jurong East,400,2015,operational
+Ang Mo Kio - Thye Hua Kwan Hospital,Community,Not-for-Profit,Ang Mo Kio,360,1993,operational
+Ren Ci Community Hospital,Community,Not-for-Profit,Novena,,1994,operational
+St. Andrew's Community Hospital,Community,Not-for-Profit,Simei,277,1992,operational
+St Luke's Hospital,Community,Not-for-Profit,Bukit Batok,519,1996,operational
+Institute of Mental Health,Psychiatric,Public,Hougang,2010,1841,operational
+Eastern General Hospital,Acute,Public,Bedok,,2030,upcoming
+Eastern Community Hospital,Community,Public,Bedok,,2030,upcoming
+Tengah General and Community Hospital,Acute,Public,Tengah,,,upcoming

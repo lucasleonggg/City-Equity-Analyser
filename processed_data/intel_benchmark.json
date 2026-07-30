@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "2026-07-29T05:03:24.223626+00:00",
+    "n_rows": 982011,
+    "n_features": 38,
+    "intel_acceleration": false,
+    "fit_seconds": 187.43,
+    "n_estimators": 40,
+    "max_depth": 14,
+    "cpu_count": 1,
+    "platform": "x86_64",
+    "test_r2_random_split": 0.9393
+  },
+  {
+    "timestamp": "2026-07-29T09:31:22.623203+00:00",
+    "n_rows": 982011,
+    "n_features": 38,
+    "intel_acceleration": false,
+    "n_estimators": 40,
+    "max_depth": 14,
+    "fit_seconds_median": 176.4,
+    "fit_seconds_min": 176.4,
+    "fit_seconds_stdev": null,
+    "fit_seconds_all": [
+      176.4
+    ],
+    "repeats": 1,
+    "cpu_count": 1,
+    "platform": "x86_64",
+    "test_r2_random_split": 0.9393
+  },
+  {
+    "timestamp": "2026-07-29T10:55:27.659133+00:00",
+    "n_rows": 982011,
+    "n_features": 38,
+    "intel_acceleration": false,
+    "n_estimators": 12,
+    "max_depth": 14,
+    "fit_seconds_median": 51.74,
+    "fit_seconds_min": 50.95,
+    "fit_seconds_stdev": 0.69,
+    "fit_seconds_all": [
+      52.83,
+      50.95,
+      51.74,
+      51.61,
+      52.14
+    ],
+    "repeats": 5,
+    "cpu_count": 1,
+    "platform": "x86_64",
+    "test_r2_random_split": 0.939
+  },
+  {
+    "timestamp": "2026-07-29T11:00:23.574383+00:00",
+    "n_rows": 982011,
+    "n_features": 38,
+    "intel_acceleration": true,
+    "n_estimators": 12,
+    "max_depth": 14,
+    "fit_seconds_median": 56.34,
+    "fit_seconds_min": 54.36,
+    "fit_seconds_stdev": 1.94,
+    "fit_seconds_all": [
+      59.47,
+      54.36,
+      56.53,
+      56.34,
+      55.21
+    ],
+    "repeats": 5,
+    "cpu_count": 1,
+    "platform": "x86_64",
+    "test_r2_random_split": 0.9383
+  },
+  {
+    "timestamp": "2026-07-29T13:28:39.395329+00:00",
+    "workload": "kmeans_fit",
+    "intel_acceleration": false,
+    "n_rows": 250000,
+    "n_features": 38,
+    "n_clusters": 4,
+    "n_init": 10,
+    "fit_seconds_median": 2.07,
+    "fit_seconds_min": 2.04,
+    "fit_seconds_stdev": 0.1,
+    "fit_seconds_all": [
+      2.24,
+      2.22,
+      2.06,
+      2.04,
+      2.07
+    ],
+    "repeats": 5,
+    "inertia": 68188080.0,
+    "cpu_count": 1,
+    "platform": "x86_64"
+  },
+  {
+    "timestamp": "2026-07-29T13:28:50.573388+00:00",
+    "workload": "kmeans_fit",
+    "intel_acceleration": true,
+    "n_rows": 250000,
+    "n_features": 38,
+    "n_clusters": 4,
+    "n_init": 10,
+    "fit_seconds_median": 1.33,
+    "fit_seconds_min": 1.3,
+    "fit_seconds_stdev": 0.06,
+    "fit_seconds_all": [
+      1.42,
+      1.43,
+      1.3,
+      1.32,
+      1.33
+    ],
+    "repeats": 5,
+    "inertia": 68275056.0,
+    "cpu_count": 1,
+    "platform": "x86_64"
+  }
+]
